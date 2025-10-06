@@ -25,6 +25,177 @@ This repository is considered excluded from hacktoberfest, so contributions here
 - [Portugal](#portugal):portugal:
 - [UK](#uk):uk:
 - [USA](#usa):us:
+- 🌍 Additional Countries (Extended List)
+🌍 Global (Additions)
+
+World Land Trust
+ <img src="https://upload.wikimedia.org/wikipedia/en/2/27/World_Land_Trust_logo.png" width=20>
+
+Treesisters
+ <img src="https://treesisters.org/assets/images/logo.svg" width=20>
+
+Tree-Nation
+ <img src="https://tree-nation.com/images/logo/logo-tree-nation.svg" width=20>
+
+UN Environment Programme – Trillion Trees Initiative
+
+🇫🇷 France
+
+Reforest’Action
+ <img src="https://www.reforestaction.com/themes/custom/reforestaction/logo.svg" width=20>
+
+Coeur de Forêt
+ <img src="https://coeurdeforet.com/wp-content/uploads/2019/03/logo.png" width=20>
+
+🇨🇳 China
+
+Ant Forest (by Alipay)
+
+China Green Foundation
+ <img src="https://www.greencf.org.cn/images/logo.png" width=20>
+
+🇰🇪 Kenya
+
+Green Belt Movement
+ <img src="https://www.greenbeltmovement.org/sites/all/themes/greenbelt/images/logo.png" width=20>
+
+Trees for the Future – Kenya Projects
+
+🇿🇦 South Africa
+
+Greenpop
+ <img src="https://greenpop.org/wp-content/uploads/2022/08/greenpop-logo.svg" width=20>
+
+Food & Trees for Africa
+ <img src="https://trees.org.za/wp-content/uploads/2020/07/FTFA-logo.png" width=20>
+
+🇳🇴 Norway
+
+Trefadder
+ <img src="https://trefadder.no/wp-content/uploads/2020/03/trefadder_logo.svg" width=20>
+
+🇸🇪 Sweden
+
+Vi-skogen (We Effect)
+ <img src="https://viskogen.se/wp-content/uploads/2020/03/Vi-skogen-logo.svg" width=20>
+
+Skogssällskapet
+
+🇦🇺 Australia
+
+Carbon Positive Australia
+ <img src="https://carbonpositiveaustralia.org.au/wp-content/uploads/2022/03/CPA-logo-horizontal.svg" width=20>
+
+Greening Australia
+ <img src="https://www.greeningaustralia.org.au/wp-content/themes/ga/img/logo.svg" width=20>
+
+🇳🇿 New Zealand
+
+Trees That Count
+ <img src="https://www.treesthatcount.co.nz/assets/images/ttc-logo.png" width=20>
+
+Project Crimson
+ <img src="https://projectcrimson.org.nz/wp-content/themes/projectcrimson/images/logo.svg" width=20>
+
+🇮🇹 Italy
+
+Treedom
+ <img src="https://cdn.treedom.net/images/logo-treedom.svg" width=20>
+
+🇪🇸 Spain
+
+Bosquia
+ <img src="https://www.bosquia.es/static/images/logo-bosquia.png" width=20>
+
+Fundación + Árboles
+
+🇵🇱 Poland
+
+Las Na Zawsze (Forest Forever Foundation)
+ <img src="https://lasnazawsze.pl/wp-content/themes/lasnazawsze/images/logo.svg" width=20>
+
+🇨🇱 Chile
+
+Reforestemos
+ <img src="https://www.reforestemos.org/wp-content/uploads/2018/03/logo-reforestemos.svg" width=20>
+
+🇵🇭 Philippines (additions)
+
+One Million Trees and Beyond
+
+Philippine Tropical Forest Conservation Foundation
+ <img src="https://ptfcf.org/wp-content/uploads/2018/05/ptfcf-logo.png" width=20>
+
+🇸🇬 Singapore
+
+NParks – OneMillionTrees Movement
+ <img src="https://www.nparks.gov.sg/-/media/npwebsite/images/logos/np_logo.png" width=20>
+
+🇳🇬 Nigeria
+
+Tree Global
+
+Green Fingers Initiative
+ <img src="https://greenfingerscharity.org/wp-content/uploads/2020/03/logo.png" width=20>
+
+🇪🇬 Egypt
+
+VeryNile – Green Initiatives
+
+Shagrha Initiative
+
+🇺🇦 Ukraine
+
+Greening of the Planet
+ <img src="https://greeningplanet.org/wp-content/uploads/2021/03/logo.png" width=20>
+
+🇳🇵 Nepal
+
+Plant for Nepal
+
+Eden Reforestation Nepal
+
+🇹🇿 Tanzania
+
+Justdiggit Tanzania
+ <img src="https://justdiggit.org/wp-content/uploads/2020/10/logo-justdiggit.svg" width=20>
+
+Trees4Tanzania
+
+🇹🇭 Thailand
+
+Conserve Natural Forests
+ <img src="https://www.cnfthailand.org/wp-content/uploads/2021/02/logo.png" width=20>
+
+🇨🇴 Colombia
+
+Saving The Amazon
+ <img src="https://savingtheamazon.org/wp-content/uploads/2020/10/logo.svg" width=20>
+
+ProAves Foundation
+
+🇨🇷 Costa Rica
+
+Bosque Vivo
+
+Reforest The Tropics
+ <img src="https://www.reforestthetropics.org/wp-content/uploads/2017/12/RTT-logo.png" width=20>
+
+🇵🇪 Peru
+
+Ecoan Peru
+ <img src="https://www.ecoanperu.org/wp-content/uploads/2021/04/logo.png" width=20>
+
+One Tree Planted – Andes Project
+
+🇮🇱 Israel
+
+Jewish National Fund (JNF) – Plant a Tree in Israel
+ <img src="https://www.jnf.org/assets/images/JNF_logo.png" width=20>
+
+🇸🇰 Slovakia
+
+Plant-for-the-Planet Slovakia
 
 ## Global
 
